@@ -580,7 +580,7 @@
 10	Jazeera	Jazeera	PROPN	NNP	Number=Sing	6	obj	_	_
 11	to	to	PART	TO	_	12	mark	_	_
 12	rely	rely	VERB	VB	VerbForm=Inf	10	acl	_	_
-13	on	on	ADP	IN	_	12	obl	_	_
+13	on	on	ADP	IN	_	12	compound:prt	_	_
 14	for	for	ADP	IN	_	16	case	_	_
 15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16	news	news	NOUN	NN	Number=Sing	12	obl	_	_
